@@ -34,7 +34,7 @@ Experienced in production systems, API integrations, reusable UI architecture, a
 
 ✔ Built production CRM systems and admin dashboards  
 ✔ Developed scalable real estate and business platforms  
-✔ Worked on international projects for UAE market  
+✔ Worked on international projects for UAE  
 ✔ Experience with frontend architecture and reusable UI systems  
 ✔ Built API-driven applications with dynamic data handling  
 ✔ Worked with AWS deployment and CI/CD workflows  
