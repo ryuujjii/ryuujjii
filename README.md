@@ -2,16 +2,16 @@
 
 Frontend Developer with 4+ years of commercial experience building scalable web applications, CRM systems, admin dashboards, and interactive digital platforms.
 
-Focused on React, Next.js, TypeScript, and modern frontend architecture with strong attention to performance, maintainability, and user experience.
+Specialized in React, Next.js, TypeScript, and modern frontend architecture with strong focus on performance, maintainability, scalability, and user experience.
 
-Experienced in production systems, API integrations, reusable UI architecture, and long-term platform support.
+Experienced in developing production-ready systems with API integrations, reusable UI architecture, dynamic business logic, and long-term platform support.
 
 ---
 
 ## 🚀 Core Stack
 
 ### Frontend Engineering
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
 
 ### Architecture & State Management
 <img src="https://img.shields.io/badge/FSD-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Effector-7D4FFF?style=for-the-badge"/>
@@ -23,32 +23,39 @@ Experienced in production systems, API integrations, reusable UI architecture, a
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 
 ### Backend & Infrastructure
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ### Workflow & Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ---
 
-# 🏗 Experience Highlights
+## 🏗 Experience Highlights
 
-✔ Built production CRM systems and admin dashboards  
-✔ Developed scalable real estate and business platforms  
-✔ Worked on international projects for UAE  
+✔ Built production CRM systems, admin dashboards, and internal business platforms  
+✔ Developed scalable real estate and corporate web platforms  
+✔ Worked on international projects for UAE market  
 ✔ Experience with frontend architecture and reusable UI systems  
 ✔ Built API-driven applications with dynamic data handling  
 ✔ Worked with AWS deployment and CI/CD workflows  
-✔ Developed interactive UI experiences using GSAP & Three.js  
+✔ Developed multilingual and responsive production platforms  
+✔ Created interactive UI experiences using GSAP & Three.js  
+✔ Refactored legacy codebases and improved maintainability  
+✔ Focused on scalable frontend architecture and long-term support  
 
 ---
 
-# 🌍 Connect With Me
+
+## 🌍 Connect With Me
 
 <a href="https://www.linkedin.com/in/islomkarimov/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="https://t.me/ryuujjii">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a> <a href="mailto:islom.kdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://t.me/ryuujjii">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+---
+
+⭐ Open to international remote opportunities and collaboration on modern frontend products.
