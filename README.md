@@ -8,8 +8,6 @@ Experienced in production systems, API integrations, reusable UI architecture, a
 
 ---
 
-# 🚀 Core Technologies
-
 ## 🚀 Core Stack
 
 ### Frontend Engineering
