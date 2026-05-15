@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Islom Karimov
+# Hey, I'm Islom Karimov
 
 Frontend Developer with 4+ years of commercial experience building scalable web applications, CRM systems, admin dashboards, and interactive digital platforms.
 
@@ -8,7 +8,7 @@ Experienced in developing production-ready systems with API integrations, reusab
 
 ---
 
-## 🚀 Core Stack
+## Core Stack
 
 ### Frontend Engineering
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
@@ -30,7 +30,7 @@ Experienced in developing production-ready systems with API integrations, reusab
 
 ---
 
-## 🏗 Experience Highlights
+## Experience Highlights
 
 ✔ Built production CRM systems, admin dashboards, and internal business platforms  
 ✔ Developed scalable real estate and corporate web platforms  
@@ -46,7 +46,7 @@ Experienced in developing production-ready systems with API integrations, reusab
 ---
 
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/islomkarimov/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -58,4 +58,4 @@ Experienced in developing production-ready systems with API integrations, reusab
 
 ---
 
-⭐ Open to international remote opportunities and collaboration on modern frontend products.
+Open to international remote opportunities and collaboration on modern frontend products.
